@@ -1,0 +1,5 @@
+tree-sitter>=0.22.0
+tree-sitter-python>=0.21.0
+networkx>=3.0
+sentence-transformers>=3.0.0
+scikit-learn>=1.3.0
