@@ -9,9 +9,4 @@
 
 ***
 
-### 🗣️ How to talk about it in an interview:
-If they ask, *"Tell me about this Graph RAG project?"* you can give them this simple 30-second pitch:
 
-> *"Standard RAG for code is really inefficient because it just chunks text blindly. If an AI agent needs to fix a bug, standard RAG might pass it an entire 1,500-line file, which wastes thousands of tokens and confuses the model.*
-> 
-> *I built a Graph RAG system that acts like a compiler. It parses the code into an AST graph. When the AI needs context, my system searches the graph and returns only the 3 or 4 specific functions it actually needs to read. It reduced token consumption by over 90% while actually improving the AI's ability to fix bugs because it removed all the noisy, irrelevant code."*
